@@ -1,6 +1,9 @@
-# pokedex-comptalib
+# Pokédex Comptalib
 
-## Build Setup
+Une application Pokédex construite à l'aide de Nuxt.js et Tailwindcss.
+
+
+## Configuration de la construction
 
 ```bash
 # install dependencies
@@ -17,4 +20,7 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Pour des explications détaillées sur le fonctionnement des choses, consultez la [documentation Nuxt.js] (https://nuxtjs.org).
+
+# References
+- https://pokeapi.co/docs/v2
